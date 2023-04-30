@@ -65,10 +65,10 @@ section {
     transition: 0.3s;
     font-weight: bold;
 }
-
 .navbar a:hover,
 .navbar a.active {
     color: var(--main-color);
+    text-decoration: underline;
 }
 
 #menu-icon {
@@ -521,7 +521,7 @@ span {
     }
     .home-content h1{
         font-size: 5rem;
-    }
+    } 
     .home-image img{
         width: 60vw;
         margin-top: 4rem;
