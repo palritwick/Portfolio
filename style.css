@@ -150,6 +150,9 @@ span {
     font-size: 2rem;
     font-weight: 700;
 }
+.bx-download{
+    margin-left: .7rem;
+}
 
 .btn {
     display: inline-flex;
