@@ -213,7 +213,7 @@ span {
 .about-img img{
     width: 25vw;
     border-radius: 10rem;
-    border: 7px solid var(--main-color);
+    border: 4px solid var(--main-color);
     margin-left: 1rem;
 }
 
@@ -307,7 +307,6 @@ span {
     border: 4px solid var(--bg-color);
     transition: .5s ease;
 }
-
 .service-container .service-box:hover{
     border-color: var(--main-color);
     transform: scale(1.2rem);
