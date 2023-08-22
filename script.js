@@ -51,7 +51,7 @@ ScrollReveal().reveal('.home-content p, .about-content p, tab-titles', { origin:
 
 // Typed js
 const typed = new Typed('.multi-text', {
-    strings: ['Frontend Developer', 'Web Designer', 'Programmer'],
+    strings: ['Frontend Developer', 'Problem Solver', 'Programmer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
