@@ -233,9 +233,7 @@ span {
 
 .about-img img {
     width: 25vw;
-    border-radius: 10rem;
-    border: 4px solid var(--main-color);
-    margin-left: 1rem;
+    margin: 2rem;
 }
 
 .about-content h2 {
@@ -310,7 +308,6 @@ span {
 .tab-contents.active-tab {
     display: block;
 }
-
 
 /* Serviices section */
 
@@ -566,7 +563,7 @@ span {
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
-        /* gap: 2rem; */
+        gap: 2rem;
         flex-direction: column;
     }
 
@@ -708,4 +705,4 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
-}
+} 

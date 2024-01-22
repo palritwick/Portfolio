@@ -51,10 +51,10 @@ ScrollReveal().reveal('.home-content p, .about-content p, tab-titles', { origin:
 
 // Typed js
 const typed = new Typed('.multi-text', {
-    strings: ['Frontend Developer', 'Problem Solver', 'Programmer'],
+    strings: ['Student', 'Problem Solver', 'Developer', 'Programmer'],
     typeSpeed: 100,
     backSpeed: 100,
-    backDelay: 1000,
+    backDelay: 100,
     loop: true
 });
 
