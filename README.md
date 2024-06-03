@@ -1,7 +1,7 @@
 # Portfolio
-// Description: 
+// Description: My Web Dev Portfolio 🧑‍💻
 
-Creating a portfolio website using HTML, CSS, and JavaScript was a rewarding experience that showcased my web development skills. HTML served as the foundation, structuring the content with semantic elements like "header", "section", "navbar", and "footer". I used "nav" for navigation links, ensuring a user-friendly interface, and "figure" and "figcaption" for image presentations to enhance visual appeal.
+Creating a portfolio website using HTML, CSS, and JavaScript was a rewarding experience that showcased my web development skills. HTML served as the foundation, structuring the content with semantic elements like "header", "section", "navbar", and "footer". I used "nav" for navigation links, ensuring a user-friendly interface, and "img src" and "a href" with target as blank for image presentations to enhance visual appeal.
 
 Incorporating CSS was crucial for styling. I utilized flexbox and grid layouts to create a responsive design that adapts seamlessly to various screen sizes. Custom fonts and color schemes were implemented to reflect my personal brand. CSS transitions and animations were used to add interactive elements, such as hover effects on buttons and smooth scrolling for a polished user experience.
 
@@ -11,7 +11,7 @@ Overall, my proficiency in HTML structured the content effectively, CSS styled i
 
 // Tech Stack Used:
 
-Frontend : HTML5 CSS3 JS 
+Frontend : HTML5, CSS3, JS 
 
 Version Control: Git, GitHub
 
